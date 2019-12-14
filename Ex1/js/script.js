@@ -3,7 +3,6 @@ let soma= 0;
 let nota = 0;
 do{
 	nota = prompt ('Digite uma nota. Para sair digite: fim','');
-	console.log(nota);
 	if (nota !='fim'){
 	soma =+ nota;
 	i++;
